@@ -1,2 +1,2 @@
-# learn-bulma-html
-learn html bulma
+# Learn HTML, CSS dan JavaScript + BulmaCSS
+branch: latihan-bulma
